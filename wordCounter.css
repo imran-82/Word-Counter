@@ -1,0 +1,23 @@
+body {
+	padding: 50px 100px;
+}
+h1 {
+	text-align: center;
+	background-color: aqua;
+	padding: 10px;
+	margin: 0px;
+}
+
+p {
+	text-align: center;
+	background-color: aqua;
+	font-size: 22px;
+	font-weight: bold;
+	margin: 0px;
+	padding: 10px;
+}
+#ta {
+	width: 99.4%;
+	border-color: aqua;
+	height: 300px;
+}
